@@ -18,3 +18,6 @@ Updated header and footer
 
 ##### Commit 4:
 Adding CSS file
+
+#### Deploy 3:
+Header and body CSS implemented
