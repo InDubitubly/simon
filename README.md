@@ -33,3 +33,9 @@ index.html finished, score names changed for fun
 
 #### Deploy 5:
 Scores and Play tab implemented (copied). I don't need to deploy this much.
+
+##### Commit 7:
+about time I finish the last tab, also added my own class padding to it
+
+#### Deploy 6:
+About tab CSS implemented, final CSS deployment
