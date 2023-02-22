@@ -25,3 +25,5 @@ Header and body CSS implemented
 ##### Commit 5:
 Updated footer, fixed header issue where only Home tab was active
 
+#### Deploy 4:
+Header fix, footer CSS implemented
