@@ -27,3 +27,6 @@ Updated footer, fixed header issue where only Home tab was active
 
 #### Deploy 4:
 Header fix, footer CSS implemented
+
+##### Commit 6:
+index.html finished, score names changed for fun

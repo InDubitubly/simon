@@ -16,6 +16,10 @@ body {
     justify-content: space-around;
   }
   
+  main div h3 {
+    margin: 1em;
+  }
+  
   footer {
     flex: 0 30px;
   }
