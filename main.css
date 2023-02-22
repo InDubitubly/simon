@@ -19,6 +19,16 @@ body {
   footer {
     flex: 0 30px;
   }
+
+  footer * {
+    float: right;
+  }
+
+  footer a {
+    padding-right: .5em;
+  }
+
+  
   
   menu {
     flex: 1;
@@ -40,10 +50,6 @@ body {
   
   menu .nav-item {
     padding: 0 0.3em;
-  }
-  
-  footer a {
-    float: right;
   }
   
   #count {
