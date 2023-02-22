@@ -30,3 +30,6 @@ Header fix, footer CSS implemented
 
 ##### Commit 6:
 index.html finished, score names changed for fun
+
+#### Deploy 5:
+Scores and Play tab implemented (copied). I don't need to deploy this much.
