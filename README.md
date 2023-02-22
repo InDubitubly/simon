@@ -15,3 +15,6 @@ Placed my link on the header, with other header formatting
 
 #### Deploy 2:
 Updated header and footer
+
+##### Commit 4:
+Adding CSS file
