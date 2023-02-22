@@ -32,6 +32,9 @@ body {
     padding-right: .5em;
   }
 
+  .about {
+    padding: 10em;
+  }
   
   menu {
     flex: 1;
