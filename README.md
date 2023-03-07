@@ -39,3 +39,6 @@ about time I finish the last tab, also added my own class padding to it
 
 #### Deploy 6:
 About tab CSS implemented, final CSS deployment
+
+##### Commit 8: 
+Got JS working, uploading
