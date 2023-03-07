@@ -42,3 +42,6 @@ About tab CSS implemented, final CSS deployment
 
 ##### Commit 8: 
 Got JS working, uploading
+
+#### Deploy 7:
+JS uploaded, fully working
