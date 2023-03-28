@@ -51,3 +51,6 @@ It works, although I don't understand it all. But just like JavaScript, I'm sure
 It's hard to know exactly what kinds of data I'm working with, but it seems I can worry less about that and still get it done. Not knowing what the req and res parameters will be or how that really interacts (yes they're JSON but still) doesn't make it impossible to write this code and host a server. Just remember the code and parameters you are sending are in the req body, and using functions on the res parameter helps you 'send back' different files, or direct the page to them.
 
 ### Notes on Mongo and Database
+I'm starting to understand turning files and packages into variables in my JS files. With that and the right functions, all of this is a lot easier to do.
+
+### Notes on Login
